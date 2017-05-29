@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Develop Team
+Comment=Develop Team application
+GenericName=Develop Team
+Exec=/usr/share/developteam/DevelopTeam
+Icon=/usr/share/developteam/resources/app/assets/Icons/icon.png
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Internet;
+
